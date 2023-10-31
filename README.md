@@ -488,4 +488,6 @@ En la busqueda del api que se consume para dar los resultados de busqueda es la 
 La búsqueda es una respuesta a una base de datos de vectores donde se está tomando en cuenta la relevancia
 de los elementos de las frases que contiene zapatos por ejemplo: zapatos, zapatos sin talón, zapatos mule, zapatos derby.
 
-Con esta relevancia se esta tomando resultados por vectores y regresa el listado que se muestra en la imagen que se agrega aqui
+Con esta relevancia se esta tomando resultados por vectores y regresa el listado que se muestra en la imagen que se agrega aquí
+
+Incluye todos los elementos de cada uno de los productos que se van mostrando como colores, tallas, precios, atributos, imagenes.
